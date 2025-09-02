@@ -1,5 +1,3 @@
-
-
 Bonjour / Bonsoir 👋
 
 Je m'appelle Nathan Plouvin.
