@@ -1,7 +1,7 @@
 # Bonjour / Bonsoir 👋
 
 Je m'appelle **Nathan Plouvin**.  
-🎯 Je suis à la recherche d’un **stage de 8 à 10 semaines**, à partir du **14 avril 2062**.
+🎯 Je suis à la recherche d’un **stage de 8 à 10 semaines**, à partir du **14 avril 2026**.
 
 ## 🎓 Parcours
 Actuellement en **2ᵉ année de BUT Informatique** (Bachelor Universitaire de Technologie),  
