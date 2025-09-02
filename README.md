@@ -1,24 +1,28 @@
-# Bonjour / Bonsoir 👋
 
-Je m'appelle **Nathan Plouvin**.  
-🎯 Je suis à la recherche d’un **stage de 8 à 10 semaines**, à partir du **14 avril 2026**.
 
-## 🎓 Parcours
-Actuellement en **2ᵉ année de BUT Informatique** (Bachelor Universitaire de Technologie),  
+Bonjour / Bonsoir 👋
+
+Je m'appelle Nathan Plouvin.
+🎯 Je suis à la recherche d’un stage de 8 à 10 semaines, à partir du 14 avril 2026.
+
+🎓 Parcours
+
+Actuellement en 2ᵉ année de BUT Informatique (Bachelor Universitaire de Technologie),
 je développe mes compétences en développement web, programmation et gestion de bases de données.
 
-## 🛠️ Compétences techniques
-- **Langages** : Java, Python  
-- **Web** : HTML, CSS  
-- **Base de données** : PostgreSQL  
-- **Outils** : Git, GitHub
+🛠️ Compétences techniques
 
-## 📫 Me contacter
-- 📧 Email : [nathanplouvin482@gmail.com](mailto:nathanplouvin482@gmail.com)
+Langages : ☕ Java, 🐍 Python
 
----
+Web : 🌐 HTML, 🎨 CSS
 
-Merci d’avoir visité mon profil ! 🌟  
-N'hésitez pas à me contacter pour toute opportunité de stage ou collaboration.
+Base de données : 🗄️ PostgreSQL
 
+Outils : 🔧 Git, 🐙 GitHub
 
+📫 Me contacter
+
+📧 Email : nathanplouvin482@gmail.com
+
+Merci d’avoir visité mon profil ! 🌟
+N'hésitez pas à me contacter pour toute opportunité de stage
