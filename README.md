@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bonjour/Bonsoir , je m'appelle Nathan 
 
-<!--
-**OretrO/OretrO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Je suis développeuse front-end passionnée par le design et les interfaces intuitives.  
+🎯 Objectif : Je cherche un stage de 8 à 10 semaines a partir du 14 avril 2062
+📚 je suis actuellement en dexième années en BUT ( Bachelor universitaire de technologie ) informatique .
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
+- HTML / CSS  /  PostgreSQL  
+- Java / Python 
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter
+- Email : nathanplouvin482@gmail.com
+  
+Merci de visiter mon profil ! 🌟
+
+
