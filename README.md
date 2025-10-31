@@ -17,6 +17,7 @@ je développe mes **compétences** en *développement web*, *programmation* et *
 - 📧 **Email** : [nathanplouvin482@gmail.com](mailto:nathanplouvin482@gmail.com)
 
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=transparent)
 
 ✨ Merci d’avoir visité mon profil !  
-N'hésitez pas à me contacter pour toute **opportunité de stage** ou **collaboration**.  
+
